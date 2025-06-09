@@ -1,0 +1,11 @@
+Vehicle Type,Feature,Mutual_Information_Score
+mini-van,fuel,3.452765468377026
+mini-van,transmission,3.4508013544122806
+mini-van,drive,2.948692594987402
+mini-van,cylinders,2.9174510668622045
+mini-van,size,2.1443785269355633
+mini-van,age,1.7101898787924523
+mini-van,odometer,1.6932850953391814
+mini-van,manufacturer,1.480923149100703
+mini-van,Model,1.3586641623126834
+mini-van,state,1.1602521774717687

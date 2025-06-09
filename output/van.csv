@@ -1,0 +1,11 @@
+Vehicle Type,Feature,Mutual_Information_Score
+van,odometer,3.671591075027608
+van,Model,2.909758284247966
+van,age,2.5916601242998656
+van,transmission,2.192046508614377
+van,size,2.135218538411738
+van,drive,2.070133398390785
+van,fuel,1.9984073805439784
+van,cylinders,1.9764461914218652
+van,manufacturer,1.9345927841373758
+van,state,1.526728564604947

@@ -1,0 +1,11 @@
+Vehicle Type,Feature,Mutual_Information_Score
+sedan,odometer,1.517771013028427
+sedan,Model,1.4119672432518762
+sedan,transmission,1.3192701240126201
+sedan,fuel,1.1825944726918705
+sedan,drive,1.0978242618757363
+sedan,cylinders,0.8956768301254119
+sedan,state,0.8791983069980285
+sedan,age,0.8754856894131819
+sedan,manufacturer,0.8020534504890691
+sedan,size,0.6766807809014566

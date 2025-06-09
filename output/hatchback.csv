@@ -1,0 +1,11 @@
+Vehicle Type,Feature,Mutual_Information_Score
+hatchback,cylinders,2.368313503638213
+hatchback,fuel,2.0659205394769247
+hatchback,drive,2.0237578053740264
+hatchback,transmission,1.9228051301407043
+hatchback,Model,1.857996752345576
+hatchback,odometer,1.545452907472459
+hatchback,age,1.3860749809700073
+hatchback,size,1.2082887670455333
+hatchback,manufacturer,1.1968333885065574
+hatchback,state,1.1294376287384287

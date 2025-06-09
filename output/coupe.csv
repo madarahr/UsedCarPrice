@@ -1,0 +1,11 @@
+Vehicle Type,Feature,Mutual_Information_Score
+coupe,fuel,2.902600438369325
+coupe,transmission,2.3667196675882014
+coupe,drive,2.259909171351893
+coupe,odometer,2.154318940881056
+coupe,Model,2.0648156705288208
+coupe,cylinders,1.8007876255632147
+coupe,age,1.7523356272811146
+coupe,manufacturer,1.747466819829461
+coupe,size,1.745341989821807
+coupe,state,1.3889805543023321

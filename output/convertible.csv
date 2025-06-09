@@ -1,0 +1,11 @@
+Vehicle Type,Feature,Mutual_Information_Score
+convertible,fuel,2.899691499031276
+convertible,Model,2.318243468233791
+convertible,transmission,2.2796563591329293
+convertible,drive,2.276562237818821
+convertible,manufacturer,2.03745644848272
+convertible,odometer,1.99575147258117
+convertible,cylinders,1.6554265958168721
+convertible,age,1.644491288120713
+convertible,size,1.41905570956663
+convertible,state,1.0914519937128175

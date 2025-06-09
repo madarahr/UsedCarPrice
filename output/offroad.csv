@@ -1,0 +1,11 @@
+Vehicle Type,Feature,Mutual_Information_Score
+offroad,age,2.4068715922389488
+offroad,odometer,2.070520696604458
+offroad,Model,1.9950446767359233
+offroad,state,1.8809550244913331
+offroad,size,1.6686386308388355
+offroad,transmission,1.6262596586562432
+offroad,cylinders,1.5445043854573461
+offroad,fuel,1.3900102045357523
+offroad,drive,1.2992137605726055
+offroad,manufacturer,1.0899938373245817

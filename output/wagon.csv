@@ -1,0 +1,11 @@
+Vehicle Type,Feature,Mutual_Information_Score
+wagon,transmission,2.5042834356895325
+wagon,Model,2.2584635986720194
+wagon,fuel,2.072734817574945
+wagon,odometer,2.0531360408129955
+wagon,cylinders,1.9061198152148142
+wagon,age,1.7766870178671499
+wagon,size,1.7346788363442864
+wagon,manufacturer,1.636152707650361
+wagon,state,1.5979916370664387
+wagon,drive,1.46314616533913

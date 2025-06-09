@@ -1,0 +1,11 @@
+Vehicle Type,Feature,Mutual_Information_Score
+truck,odometer,3.314561733267437
+truck,Model,2.4887205658044014
+truck,age,1.8098945593751958
+truck,transmission,1.357569583620994
+truck,fuel,1.3310146460595842
+truck,drive,1.245535509876909
+truck,cylinders,1.216160182911758
+truck,manufacturer,1.2009534619567033
+truck,size,1.1880483611489758
+truck,state,1.144693675754385

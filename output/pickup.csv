@@ -1,0 +1,11 @@
+Vehicle Type,Feature,Mutual_Information_Score
+pickup,transmission,2.3837470828273966
+pickup,size,2.372806915671787
+pickup,odometer,2.3676154761871535
+pickup,fuel,2.2407973591313706
+pickup,Model,2.204609604168793
+pickup,drive,2.0410791080189146
+pickup,age,1.9066755702723697
+pickup,cylinders,1.820437544760284
+pickup,manufacturer,1.5575179079813735
+pickup,state,1.4330578430752805
